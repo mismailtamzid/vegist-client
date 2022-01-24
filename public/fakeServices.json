@@ -1,0 +1,72 @@
+[
+    {
+        "id":"1",
+        "img": "https://image.freepik.com/free-photo/big-travel-cruise-ship_1122-431.jpg?1",
+        "place": "Chittagong -- Coxs Bazar",
+        "date": "15 june ---22 June",
+        "pakage": "$ 344 "
+    },
+    {
+        "id":"2",
+        "img": "https://as2.ftcdn.net/v2/jpg/00/03/76/29/500_F_3762987_09qMR2aRr0UbC3Bf4Dr8QGTAVWp5iyuZ.jpg",
+        "place": "Bd -- India",
+        "date": "5 june ---12 June",
+        "pakage": "$ 3344 "
+    },
+    {
+        "id":"3",
+        "img": "https://as1.ftcdn.net/v2/jpg/02/21/93/98/500_F_221939843_EzUQf9whXXJglDXBmook9jVXhGmoCnCH.jpg",
+        "place": "Chittagong -- Sylhet",
+        "date": "12 june ---22 June",
+        "pakage": "$ 733 "
+    },
+    {
+        "id":"4",
+        "img": "https://as1.ftcdn.net/v2/jpg/00/21/15/62/500_F_21156295_sqIK80AUWelr95bmLpPyPItjisryjl6R.jpg",
+        "place": "Grece -- Turkey",
+        "date": "5 june ---20 June",
+        "pakage": "$ 732 "
+    },
+    {
+        "id":"5",
+        "img": "https://as2.ftcdn.net/v2/jpg/01/66/74/07/1000_F_166740791_ZQB9ELVBkKKn4fGPlUjmbUVGZKoeenu4.jpg",
+        "place": "Alexa -- Tasnamia",
+        "date": "1 june ---7 June",
+        "pakage": "$ 257 "
+    },
+    {
+        "id":"6",
+        "img": "https://as1.ftcdn.net/v2/jpg/01/82/36/50/1000_F_182365034_UyzETKXQWMPIWghF5CSMUmmVI4KcsfvD.jpg",
+        "place": "Bogura -- Coxs Bazar",
+        "date": "15 june ---22 June",
+        "pakage": "$ 675 "
+    },
+    {
+        "id":"7",
+        "img": "https://as1.ftcdn.net/v2/jpg/02/16/97/76/1000_F_216977618_G22Ta0akrMEPepnfrPj5Asnw3gOXr8rx.jpg",
+        "place": "tsc -- Coxs ",
+        "date": "15 june ---22 June",
+        "pakage": "$ 575 "
+    },
+    {
+        "id":"8",
+        "img": "https://as2.ftcdn.net/v2/jpg/00/81/22/67/1000_F_81226770_Llun9R4x1fXCHOw8KIb0iwnTA4P0e0eq.jpg",
+        "place": "Chittagong -- Coxs Bazar",
+        "date": "15 june ---22 June",
+        "pakage": "$ 135 "
+    },
+    {
+        "id":"9",
+        "img": "https://as1.ftcdn.net/v2/jpg/02/24/50/62/1000_F_224506260_HG22rHir4NrZ6X0oKfeKyhurCWecdiPk.jpg",
+        "place": "Duklam -- Hanshu",
+        "date": "15 june ---22 June",
+        "pakage": "$ 432 "
+    },
+    {
+        "id":"10",
+        "img": "https://as1.ftcdn.net/v2/jpg/01/76/29/26/1000_F_176292602_yt0eSF1mgOQFBnMQaOrdhwmrc5Encv3R.jpg",
+        "place": "Santmartin -- Coxs Bazar",
+        "date": "8 june ---16 June",
+        "pakage": "$ 235 "
+    }
+]
